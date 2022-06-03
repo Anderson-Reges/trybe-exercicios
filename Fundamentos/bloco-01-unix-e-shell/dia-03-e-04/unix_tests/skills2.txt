@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+PHP
+SQL
+PYTHON
+RUBY
+ANGULAR+8
