@@ -1,6 +1,6 @@
 # DIA 03
 
-O objetivo dos exercicios desse dia foi colocar em prática o que havia aprendido sobre 'UNIX' e 'BASH'. Para isso deveria criar arquivos e pastas no terminal para treinar os comando passados como `touch`, `rmkdir`, `cd, entre outros comando, sempre adicionando conteudos em formato .txt e executando comando como exercicios passavam.
+O objetivo dos exercicios desse dia foi colocar em prática o que havia aprendido sobre 'UNIX' e 'BASH'. Para isso deveria criar arquivos e pastas no terminal para treinar os comando passados como `touch`, `rmkdir`, `cd`, entre outros comando, sempre adicionando conteudos em formato .txt e executando comando como exercicios passavam.
 
 # DIA 04
 
