@@ -4,5 +4,6 @@ O conteúdo desse dia foi colocar em prática as tags aprendidas no `HTML5`. Par
 
 E para fixar o contéudo foi posto em pratica um exercicio de criar uma documentção HTML e fazer uma portifolio contendo as informaçoes pedidas no exercicio e apos concluido foi criado um repositorio com o nosso nome de usuario + github.io no github para hospedar nosso portifolio online ao terminar deveriamos acessa-lo para ver se estava em funcionamento.
 
-Confira meu portifolio feito:[anderson-reges.github.io](https://anderson-reges.github.io/)
-O repositorio estar no meu [perfil](https://github.com/Anderson-Reges) também.
+Confira meu portifolio feito:_[anderson-reges.github.io](https://anderson-reges.github.io/)_
+
+O repositorio estar no meu _[perfil](https://github.com/Anderson-Reges)_ também.
