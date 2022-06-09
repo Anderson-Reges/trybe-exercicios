@@ -1,0 +1,28 @@
+@charset "UTF-8";
+div:hover{
+    border: 5px solid black;
+}
+#a1{
+    background-color: #f00;
+    color: white;
+    font-style: italic;
+}
+#a2{
+    background-color: yellow;
+    color: brown
+}
+#a3{
+    background-color: yellowgreen;
+    color: #f00;
+    height: 51px;
+    font-style: italic;
+}
+#a4{
+    background-color: brown;
+    color: white;
+}
+#a5{
+    background-color: blue;
+    color: white;
+    font-style: italic;
+}
