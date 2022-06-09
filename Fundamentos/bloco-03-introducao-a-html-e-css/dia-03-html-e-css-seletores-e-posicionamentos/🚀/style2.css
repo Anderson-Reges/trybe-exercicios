@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.ordenado{
+    background-color: yellow;
+}
+#par1, #par2{
+    color: green;
+}
+#impar1, #impar2, #impar0{
+    text-transform: uppercase;
+}
+.heads {
+    color: red;
+}
+h1.heads{
+    font-size: 40px;
+    border: 1px solid black;
+}
+li{
+    font-size: 20px;
+}
+li em{
+    font-weight: 900;
+}
+#a1, #a2, #a3{
+    color: blue;
+}
+#a2, #a3{
+    background-color: pink;
+}
+a:hover{
+    font-weight: 900;
+}
+#b1:hover{
+    background-color: orange
+}
+#b2:hover{
+    background-color: green
+}
+#b3:hover{
+    background-color: black;
+}
+#b4:hover{
+    background-color: yellow;
+}
+#b5:hover{
+    background-color: green
+}
