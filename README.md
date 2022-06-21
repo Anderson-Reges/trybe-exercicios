@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - HTML & CSS](https://github.com/Anderson-Reges/Anderson-Reges.github.io/tree/main/projetos-trybe/lessons-learned)_
-           _[Resultado do Projeto](https://anderson-reges.github.io/projetos-trybe/lessons-learned/)_
+         - _[Resultado do Projeto](https://anderson-reges.github.io/projetos-trybe/lessons-learned/)_
 
 ##### Bloco 4: Introdução - JavaScript
 
