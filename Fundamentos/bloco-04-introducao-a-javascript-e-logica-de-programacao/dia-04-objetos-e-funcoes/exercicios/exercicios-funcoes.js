@@ -70,3 +70,4 @@ function maisRepetido(numeros) {
     }
     return numeros[indexNumeroRepetido];
   }
+  console.log(maisRepetido)
