@@ -16,3 +16,19 @@ const addText = document.getElementById('primeiroFilhoDoFilho').innerText = 'Hel
 
 const acess2 = pai.firstElementChild;
 console.log(acess2);
+
+//5
+
+const acess3 = elementoOndeVoceEsta.primeiroFilho;
+console.log(acess3);
+
+//6 
+
+const acessText = elementoOndeVoceEsta.nextSibling;
+console.log(acessText);
+
+// 7
+const terceiroFilho = elementoOndeVoceEsta.nextElementSibling;
+
+// 8
+const terceiroFilho2 = pai.lastElementChild.previousElementSibling;
