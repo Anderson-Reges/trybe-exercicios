@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css">
+    <title>Form</title>
+</head>
+<body>
+<form action="" class="bg-light text-dark">
+    <fieldset class="p-3">
+        <div class="form-floating w-25 h-25 d-inline-block">
+            <input type="username" class="form-control" id="floatingInput">
+            <label for="floatingInput fw-bold">Nome:</label>
+          </div>
+          <div class="form-floating w-25 h-25 d-inline-block">
+            <input type="email" class="form-control" id="floatingInput">
+            <label for="floatingInput fw-bold">Endereço de email:</label>
+          </div>
+        <div class="p-2" class="form-group">
+            <label for="option1" class="form-check-label fw-bold"><input type="radio" id="option1" name="opt" class="form-check-input">Cidade</label>
+            <label for="option2" class="form-check-label fw-bold"><input type="radio" id="option2" name="opt" class="form-check-input">Campo</label>
+            <label for="option3" class="form-check-label fw-bold"><input type="radio" id="option3" name="opt" class="form-check-input">Praia</label>
+            <label for="option4" class="form-check-label fw-bold"><input type="radio" id="option4" name="opt" class="form-check-input">Montanhas</label>
+        </div>
+        <div class="p-2" class="form-group ">
+            <label for="textarea">
+                <span class="fw-bold">Espaço para digitar a resposta:</span>
+                <br>
+                <textarea name="textarea" id="textarea" cols="30" rows="10"placeholder='Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?'  maxlength="500" class="shadow p-1 bg-body rounded fw-bold"></textarea>
+            </label>
+        </div>
+        
+        <div class="p-2" class="form-group">
+            <p class="fw-bold">Qual a melhor data para realizar sua viagem?</p>
+            <label for="data">
+                Data:
+                <input type="text" name="data" id="data" placeholder="dd/mm/aaaa" class="shadow p-1 bg-body rounded">
+            </label>
+        </div>
+        
+        <div class="p-2" class="form-group">
+            <label class="form-check-label fw-bold" for="checkbox1">
+                <input type="checkbox" name="checkbox1" id="checkbox1" class="form-check-input"> Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+            </label>
+            <br>
+            <label class="form-check-label fw-bold" for="checkbox2">
+                <input type="checkbox" name="checkbox2" id="checkbox2" class="form-check-input"> Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+            </label>
+        </div>
+   
+    
+    <div class="p-2" class="form-group">
+        <input type="submit" value="Enviar" id="btn-enviar" class="btn btn-dark">
+        <input type="reset" value="Apagar" class="btn btn-dark">
+    </div> 
+    </fieldset>
+</form>
+<script src="script.js"></script>
+</body>
+</html>
