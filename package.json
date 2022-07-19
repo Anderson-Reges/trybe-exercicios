@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercicios",
+  "version": "1.0.0",
+  "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Anderson Reges](https://www.linkedin.com/in/anderson-reges-66386b221/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anderson-Reges/Trybe-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anderson-Reges/Trybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/Anderson-Reges/Trybe-exercicios#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
