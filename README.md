@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Anderson Reges](https://www.linkedin.com/in/anderson-reges-66386b221/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Anderson Reges](https://www.linkedin.com/in/anderson-reges)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -85,40 +85,41 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: _Componentes React_
-- [ ] 10-3: _[Projeto - Movie Cards Library]()_
+- [x] 10-3: _[Projeto - Solar System]()_
 
-##### Bloco 11: React
+##### Bloco 11: Componentes com Estado, Eventos, Formularios com React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 11-1: _Components com estado_
+- [x] 11-2: _Eventos e formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 12: React
+##### Bloco 12: Clico de vida de componentes e React Router
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 12-1: _Melhorando o reuso de componentes: props.children e PropTypes_
+- [x] 12-2: _Ciclo de vida de componentes em React_
+- [x] 12-3: _React Router_
+- [x] 12-4: _[Projeto - TrybeTunes]()_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-1: _Metodologias Ágeis_
+- [x] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [x] 14-1: _RTL-Primeiros Passos_
+- [x] 14-2: _Mocks e Inputs_
+- [x] 14-3: _Testando React Router_
+- [x] 14-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 15: Introdução ao Redux
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [x] 15-1: _Introdução ao Redux_
+- [ ] 15-2: _React com Redux - Parte 1_
+- [ ] 15-3: _React com Redux - Prática_
+- [ ] 15-4: _React com Redux - Parte 2_
+- [ ] 15-5: _Testes síncronos com React-Redux_
+- [ ] 15-6: _[Projeto - Tabela com filtros de dados]()_
 
 ##### Bloco 16: Projeto React
 

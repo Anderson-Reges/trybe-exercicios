@@ -84,7 +84,3 @@ Adicione no componente App um link que aponte para o caminho de URL "/strict-acc
 **Exercício 13**
 
 Adicione, no componente App, uma rota que mapeie o caminho de URL "/strict-access" para o componente StrictAccess. Para poder testar o fluxo de autenticação, passe para a prop user de StrictAccess diferentes valores para as propriedades username e password.
-
-# EXERCICIO
-
-_[Repositorio de Exercicio]('')_
