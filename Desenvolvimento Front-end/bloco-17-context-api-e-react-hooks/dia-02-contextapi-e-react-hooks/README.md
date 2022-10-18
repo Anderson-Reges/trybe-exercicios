@@ -8,10 +8,10 @@ O conteudo desse foi focado **`useState`** e **`useContext`** e suas funcionabil
 
 - O formulário deve conter:
 
-   -Input do tipo text contendo o nome completo;
-   -Input do tipo number contendo a idade;
-   -Input do tipo text contendo a cidade;
-   -Quatro inputs do tipo radio button contendo o módulo que está estudando (Fundamentos, Front-end, Back-end ou Ciência da Computação);
+   -Input do tipo text contendo o nome completo;<br>
+   -Input do tipo number contendo a idade;<br>
+   -Input do tipo text contendo a cidade;<br>
+   -Quatro inputs do tipo radio button contendo o módulo que está estudando (Fundamentos, Front-end, Back-end ou Ciência da Computação);<br>
    -Um botão para submeter as informações. Nesse exercício você não precisa implementar o click, o botão deve apenas existir na  aplicação.
 
 Dica: Utilize o hook useState para gerenciar o estado do seu componente!
