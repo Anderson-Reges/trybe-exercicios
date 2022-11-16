@@ -8,6 +8,8 @@ Nesse dia foi passado o conteudo introdutorio para `MySQL`, a qual fui capaz de:
 - Montar um ambiente de desenvolvimento local para praticar `SQL`;
 - Entender como usar o `MySQL Workbench`.
 
+obs: o dia foi mais de criação de banco de dados e manipulação por isso a ausencia de arquivos, tudo foi feito pelo terminal e `MySql Workbench`.
+
 # EXERCICIO
 
 Exercício 1: Descubra como fazer uma pesquisa em qualquer tabela sem utilizar uma linha de código usando o `MySql Workbench`.
