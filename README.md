@@ -138,13 +138,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 19: Introdução - Bancos de dados relacionais
+##### Bloco 19: Docker: Utilizando containers
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [x] 19-1: _Introdução a Docker_
+- [x] 19-2: _Manipulando imagens no Docker_
+- [x] 19-3: _Orquestrando containers com Docker-compose_
+- [x] 20-5: _[Projeto - TodoList: Docker]()_
 
 ##### Bloco 20: Bancos de dados relacionais
 
