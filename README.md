@@ -143,7 +143,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 19-1: _Introdução a Docker_
 - [x] 19-2: _Manipulando imagens no Docker_
 - [x] 19-3: _Orquestrando containers com Docker-compose_
-- [x] 20-5: _[Projeto - TodoList: Docker]()_
+- [x] 19-4: _[Projeto - TodoList: Docker]()_
 
 ##### Bloco 20: Bancos de dados relacionais
 
