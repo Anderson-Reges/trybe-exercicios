@@ -1,6 +1,10 @@
-# DIA 04 - 
+# DIA 04 - MANIPULANDO TABELAS
 
+Nesse dia foi passado o conteúdo sobre manipulação de dados no `MySQL`, a qual fui de capaz:
 
+- Inserir dados em tabelas com `INSERT`
+- Atualizar dados em tabelas com `UPDATE`
+- Apagar dados em tabelas com `DELETE`
 
 # EXERCICIO
 
