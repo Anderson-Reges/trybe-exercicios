@@ -145,25 +145,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 19-3: _Orquestrando containers com Docker-compose_
 - [x] 19-4: _[Projeto - TodoList: Docker]()_
 
-##### Bloco 20: Bancos de dados relacionais
+##### Bloco 20: Introdução a SQL
 
-- [x] 20-1: _Funções mais usadas no SQL_
-- [x] 20-2: _Descomplicando JOINs e UNIONs_
-- [x] 20-3: _Transformando ideas em modelo de banco de dados_
-- [x] 20-4: _[Projeto - One for All]()_
+- [x] 20-1: _Banco de dados SQL_
+- [x] 20-2: _Encontrando dados em um banco de dados_
+- [x] 20-3: _Filtrando dados de forma especifica_
+- [x] 20-4: _Manipulando Tabelas_
+- [x] 20-5: _[Projeto - One for All]()_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Bloco 21: Funções SQL joins e normalização
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [x] 21-1: _Funções mais usadas no SQL_
+- [x] 21-2: _Descomplicando Joins_
+- [x] 21-3: _Transformando ideias modelo de banco de dados_
+- [x] 21-4: _[Projeto - All for One]()_
 
-##### Bloco 22: Introdução - NoSQL
+##### Bloco 22: Introdução ao desenvolvimento web com Node.js
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 22-1: _Node.js: Runtime assicrono_
+- [x] 22-2: _Node.js: API rest com Express_
+- [x] 22-3: _Node.js: Teste de integração_
+- [x] 22-4: _Express e Middlewares_
+- [x] 22-5: _[Projeto - Data Flights]()_
 
 ##### Bloco 23: Updates
 
