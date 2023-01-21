@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  database:
+    image: mysql:8.0.29
+    container_name: exercicio-container-db
+    environment:
+      MYSQL_ROOT_PASSWORD: mysql1
+      MYSQL_DATABASE: exercicioDatabase
+    ports:
+      - "3306:3306"
