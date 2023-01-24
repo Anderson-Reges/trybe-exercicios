@@ -166,21 +166,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 22-2: _Node.js: API rest com Express_
 - [x] 22-3: _Node.js: Teste de integração_
 - [x] 22-4: _Express e Middlewares_
-- [x] 22-5: _[Projeto - Data Flights]()_
+- [x] 22-5: _Express e MySQL_
+- [x] 22-6: _[Projeto - Talker Manager]()_
 
-##### Bloco 23: Updates
+##### Bloco 23: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [x] 23-1: _Camada Model_
+- [x] 23-2: _Camada Service_
+- [x] 23-3: _Camada Controller_
+- [x] 23-4: _[Projeto - Store Manager]()_
 
-##### Bloco 24: Aggregation Framework
+##### Bloco 24: ORM e Autenticação
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 24-1: _ORM - Interface de Aplicação com Banco de Dados_
+- [x] 24-2: _ORM - Associations 1:1 e 1:N_
+- [ ] 24-3: _ORM - Associations N:N e Transactions_
+- [ ] 24-4: _JWT - (JSON Web Token)_
+- [ ] 24-5: _[Projeto - API de Blogs]()_
 
+### DAQUI PRA BAIXO ESTAR DESATUALIZADO
 ##### Bloco 25: Intro - NodeJS
 
 - [ ] 26-1: _NodeJS - Introdução_
