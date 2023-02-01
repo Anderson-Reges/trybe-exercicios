@@ -184,14 +184,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 24-4: _JWT - (JSON Web Token)_
 - [x] 24-5: _[Projeto - API de Blogs]()_
 
+##### Bloco 25: Introdução a TypeScript
+
+- [x] 25-1: _Introdução ao TypeScript_
+- [ ] 25-2: _Tipagem estatica e generics_
+- [ ] 25-3: _Express com TypeScript_
+- [ ] 25-4: _[Projeto - Trybesmith]()_
+
 ### DAQUI PRA BAIXO ESTAR DESATUALIZADO
-##### Bloco 25: Intro - NodeJS
-
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
-
 ##### Bloco 26: NodeJS
 
 - [ ] 27-1: _Express: HTTP com Node.js_
