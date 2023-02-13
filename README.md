@@ -200,7 +200,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 26-5: _SOLID - Principios L e I_
 - [ ] 26-6: _[Projeto - Trybers and Dragons]()_
 
-### DAQUI PRA BAIXO ESTAR DESATUALIZADO
+### DAQUI PRA BAIXO ESTA DESATUALIZADO
 ##### Bloco 27: NodeJS
 
 - [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
