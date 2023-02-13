@@ -187,17 +187,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 25: Introdução a TypeScript
 
 - [x] 25-1: _Introdução ao TypeScript_
-- [ ] 25-2: _Tipagem estatica e generics_
-- [ ] 25-3: _Express com TypeScript_
-- [ ] 25-4: _[Projeto - Trybesmith]()_
+- [x] 25-2: _Tipagem estatica e generics_
+- [x] 25-3: _Express com TypeScript_
+- [x] 25-4: _[Projeto - Trybesmith]()_
+
+##### Bloco 26: Programação Orientada a Objeto e SOLID
+
+- [x] 26-1: _Introdução à Orientação a Objeto_
+- [x] 26-2: _Heranção e Composição_
+- [ ] 26-3: _Polimorfismo_
+- [ ] 26-4: _SOLID - Introdução e Principios S, O e D_
+- [ ] 26-5: _SOLID - Principios L e I_
+- [ ] 26-6: _[Projeto - Trybers and Dragons]()_
 
 ### DAQUI PRA BAIXO ESTAR DESATUALIZADO
-##### Bloco 26: NodeJS
-
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
-
 ##### Bloco 27: NodeJS
 
 - [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
