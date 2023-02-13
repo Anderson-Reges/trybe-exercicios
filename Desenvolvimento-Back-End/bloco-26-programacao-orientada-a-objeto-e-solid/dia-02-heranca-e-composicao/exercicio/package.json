@@ -1,0 +1,21 @@
+{
+  "name": "poo-dia-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "students": "ts-node students.ts",
+    "fastfood": "ts-node fastfood.ts",
+    "data": "ts-node data.ts",
+    "person": "ts-node person.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
