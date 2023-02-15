@@ -196,7 +196,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 26-1: _Introdução à Orientação a Objeto_
 - [x] 26-2: _Heranção e Composição_
 - [x] 26-3: _Polimorfismo_
-- [ ] 26-4: _SOLID - Introdução e Principios S, O e D_
+- [x] 26-4: _SOLID - Introdução e Principios S, O e D_
 - [ ] 26-5: _SOLID - Principios L e I_
 - [ ] 26-6: _[Projeto - Trybers and Dragons]()_
 
