@@ -1,0 +1,5 @@
+use('conteudo');
+
+db.restaurants.find().sort({ name: 1 })
+
+db.restaurants.find().sort({ rating: -1 })
