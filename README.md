@@ -200,7 +200,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 26-5: _SOLID - Principios L e I_
 - [x] 26-6: _[Projeto - Trybers and Dragons]()_
 
-### DAQUI PRA BAIXO ESTA DESATUALIZADO
 ##### Bloco 27: Introdução a MongoDB
 
 - [x] 27-1: _MongoDB - introdução_
@@ -210,6 +209,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 27-5: _Updates Complexos - Arrays_
 - [ ] 27-6: _[Projeto - Commerce]()_
 
+### DAQUI PRA BAIXO ESTA DESATUALIZADO
 ##### Bloco 28: NodeJS
 
 - [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
