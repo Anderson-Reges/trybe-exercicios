@@ -4,7 +4,7 @@
 
 Nesse modulo aprendi um pouco mais sobre `JavaScript`, foi mostrado a assincronicidade da linguagem com a aprensentação das `Promises` e o `Fetch` de requisiçôes e logo em seguida para completar o conteudo de requisições foi aprensentado o `Async` e `Await`, dois elementos importantes para execução de assincronicidade em funções.
 
-Ainda nesse modulo fui introduzido a famosa biblioteca **`React`**, com um conteudo detalhado sobre cade parte da biblioteca: 
+Ainda nesse modulo fui introduzido a famosa biblioteca **`React`**, com um conteudo detalhado sobre cada parte da biblioteca: 
 
 - Primeiro foi passado sobre o que são os `componentes`, `state`, `props`.
 - Segundo foi explicado como funcionam os ciclos de vida do `React` passando a forma antiga de mexer com os ciclos, que era utilizando as funções `componentDidMount`, `componentDidUpdate`, `componentWillUnmount` e `shouldComponentUpdate` para futuramento apresentar um novo jeito de mexer com os ciclos sem usar essas funções. E tambem foi aprensentado um companheiro do React chamando `React Router` que sua principal responsabilidade é controlar as rotas das páginas dentro do app, a qual vem acompanhando com algumas funções que podem acabar agregando a logica do app, como a passagem de `props` via caminhos, `redirecionamentos`, `Links` entre outros, com o conteudo de `React Router` veio a explição do que é `Single Page Application` (`SPA`) ja que o `React Router` faz uso desse conceito.
