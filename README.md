@@ -197,15 +197,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 26-2: _Heranção e Composição_
 - [x] 26-3: _Polimorfismo_
 - [x] 26-4: _SOLID - Introdução e Principios S, O e D_
-- [ ] 26-5: _SOLID - Principios L e I_
-- [ ] 26-6: _[Projeto - Trybers and Dragons]()_
+- [x] 26-5: _SOLID - Principios L e I_
+- [x] 26-6: _[Projeto - Trybers and Dragons]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-##### Bloco 27: NodeJS
+##### Bloco 27: Introdução a MongoDB
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [x] 27-1: _MongoDB - introdução_
+- [x] 27-2: _Filter Operators_
+- [ ] 27-3: _Operadores de Consulta_
+- [ ] 27-4: _Updates Simples_
+- [ ] 27-5: _Updates Complexos - Arrays_
+- [ ] 27-6: _[Projeto - Commerce]()_
 
 ##### Bloco 28: NodeJS
 
