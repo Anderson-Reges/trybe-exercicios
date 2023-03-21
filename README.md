@@ -207,14 +207,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 27-3: _Operadores de Consulta_
 - [x] 27-4: _Updates Simples_
 - [x] 27-5: _Updates Complexos - Arrays_
-- [ ] 27-6: _[Projeto - Commerce]()_
+- [x] 27-6: _[Projeto - Commerce]()_
+
+##### Bloco 28: API's OO e NoSQL
+
+- [x] 28-1: _API's orientadas a objeto e NoSQL: POO e ODMs_
+- [x] 28-2: _API's orientadas a objeto e NoSQL: Herença e Abstração_
+- [ ] 28-3: _[Projeto - Car Shop]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-##### Bloco 28: NodeJS
-
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
 
 ##### Bloco 29: Introdução - Deploy
 
