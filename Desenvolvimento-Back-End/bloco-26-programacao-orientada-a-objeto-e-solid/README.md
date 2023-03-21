@@ -1,5 +1,7 @@
 # BLOCO 26 - PROGRAMAÇÃO ORIENTADA A OBJETO(POO) E SOLID
 
+Esse bloco pertence ao módulo de **`Desenvolvimento Back-End`** do curso da [Trybe](https://www.betrybe.com/).
+
 Nesse bloco foi introduzido a **Programação Orientada a Objeto** junto com os principios **SOLID**, os conhecimentos firmados foram:
 
 - Definir `Programação Orientada a Objetos` como um paradigma de programação que é base para inúmeras arquiteturas de software
