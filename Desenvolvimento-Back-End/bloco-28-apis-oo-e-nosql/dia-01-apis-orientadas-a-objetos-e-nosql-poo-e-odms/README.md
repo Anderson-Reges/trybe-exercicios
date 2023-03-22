@@ -1,6 +1,6 @@
 # DIA 01 - APIS ORIENTADAS A OBJETOS E NOSQL E ODMS
 
-Nesse dia foi passado como construir API's orientadas a objeto com `MongoDB`, nesse dia fui capaz de:
+Nesse dia foi passado como construir API's orientadas a objeto com `MongoDB` utilizando uma aplicação criada pela **Trybe** chamado `TRIX`, nesse dia fui capaz de:
 
 - Saber o que é um **ODM** e para que ele serve;
 - Compreender a diferença entre **ODM** e **ORM**;
