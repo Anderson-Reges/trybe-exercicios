@@ -1,6 +1,6 @@
 # DIA 01 - APIS ORIENTADAS A OBJETOS E NOSQL E ODMS
 
-Nesse dia foi passado como construir API's orientadas a objeto com `MongoDB`, nesse dia fui capaz de:
+Nesse dia foi passado como construir API's orientadas a objeto com `MongoDB` utilizando uma aplicação criada pela **Trybe** chamado `TRIX`, nesse dia fui capaz de:
 
 - Saber o que é um **ODM** e para que ele serve;
 - Compreender a diferença entre **ODM** e **ORM**;
@@ -12,8 +12,8 @@ o conteudo desse dia foi treinado usando a aplicação `TRIX` da _Trybe_
 
 # EXERCICIO
 
-**Exercício 5**: 🚀
+**Exercício 1**: 🚀
 Agora incremente a aplicação `TRIX` e adicione mais um endpoint , que deve retornar todas as transferências.
 
-**Exercício 6**: 🚀
+**Exercício 2**: 🚀
 Ainda na aplicação `TRIX`, crie um novo endpoint que deve retornar todas as transferências de uma determinada chave (`key`)
