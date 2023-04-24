@@ -213,15 +213,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 28-1: _API's orientadas a objeto e NoSQL: POO e ODMs_
 - [x] 28-2: _API's orientadas a objeto e NoSQL: Herença e Abstração_
-- [ ] 28-3: _[Projeto - Car Shop]()_
+- [x] 28-3: _[Projeto - Car Shop]()_
+
+## Ciência da Computação :hourglass_flowing_sand:
+
+##### Bloco 1: Introdução à Python
+
+- [x] 1-1: _Aprendendo Phyton_
+- [ ] 2-2: _Entrada e Saida de Dados_
+- [ ] 3-2: _Testes_
+- [ ] 4-3: _[Projeto - Job Insights]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-
-##### Bloco 29: Introdução - Deploy
-
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
 
 ##### Bloco 30: Projeto
 
@@ -245,7 +248,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 34: Introdução - Ciência da Computação
 
