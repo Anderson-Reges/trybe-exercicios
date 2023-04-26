@@ -221,7 +221,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 1-1: _Aprendendo Phyton_
 - [x] 2-2: _Entrada e Saida de Dados_
-- [ ] 3-2: _Testes_
+- [x] 3-2: _Testes_
 - [ ] 4-3: _[Projeto - Job Insights]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
