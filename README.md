@@ -220,7 +220,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 1: Introdução à Python
 
 - [x] 1-1: _Aprendendo Phyton_
-- [ ] 2-2: _Entrada e Saida de Dados_
+- [x] 2-2: _Entrada e Saida de Dados_
 - [ ] 3-2: _Testes_
 - [ ] 4-3: _[Projeto - Job Insights]()_
 
