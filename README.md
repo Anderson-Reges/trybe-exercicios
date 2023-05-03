@@ -220,15 +220,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 1: Introdução à Python
 
 - [x] 1-1: _Aprendendo Phyton_
-- [x] 2-2: _Entrada e Saida de Dados_
-- [x] 3-2: _Testes_
-- [ ] 4-3: _[Projeto - Job Insights]()_
+- [x] 1-2: _Entrada e Saida de Dados_
+- [x] 1-3: _Testes_
+- [x] 1-3: _[Projeto - Job Insights]()_
+
+
+##### Bloco 2: Pradrões de Projetos
+
+- [x] 2-1: _POO em Python_
+- [ ] 2-2: _Padrões - Iterator, Adapter, Strategy_
+- [ ] 2-3: _Padrões - Decorator, Observer, Factory_
+- [ ] 2-3: _[Projeto - Relatórios de Estoque]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-
-##### Bloco 30: Projeto
-
-- [ ] 31-1: _[Projeto - Trybeer]()_
 
 ##### Bloco 31: Arquitetura de Software
 
