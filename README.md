@@ -228,7 +228,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 2: Pradrões de Projetos
 
 - [x] 2-1: _POO em Python_
-- [ ] 2-2: _Padrões - Iterator, Adapter, Strategy_
+- [x] 2-2: _Padrões - Iterator, Adapter, Strategy_
 - [ ] 2-3: _Padrões - Decorator, Observer, Factory_
 - [ ] 2-3: _[Projeto - Relatórios de Estoque]()_
 
