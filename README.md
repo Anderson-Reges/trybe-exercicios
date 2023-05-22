@@ -222,7 +222,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-1: _Aprendendo Phyton_
 - [x] 1-2: _Entrada e Saida de Dados_
 - [x] 1-3: _Testes_
-- [x] 1-3: _[Projeto - Job Insights]()_
+- [x] 1-4: _[Projeto - Job Insights]()_
 
 
 ##### Bloco 2: Pradrões de Projetos
@@ -230,23 +230,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 2-1: _POO em Python_
 - [x] 2-2: _Padrões - Iterator, Adapter, Strategy_
 - [x] 2-3: _Padrões - Decorator, Observer, Factory_
-- [ ] 2-3: _[Projeto - Relatórios de Estoque]()_
+- [x] 2-4: _[Projeto - Relatórios de Estoque]()_
+
+
+##### Bloco 3: Raspagem de Dados
+
+- [x] 3-1: _Raspagem de Dados_
+- [x] 3-2: _Outras Ferramentas de Raspagem de Dados_
+- [x] 3-3: _Dia de Atividades - Crawlers + POO_
+- [x] 3-4: _[Projeto - Tech News]()_
+
+##### Bloco 4: Algoritmos
+
+- [x] 4-1: _Complexidade de Algoritmos_
+- [ ] 4-2: _Recursividade e Estratégia para Solução de Problemas_
+- [ ] 4-3: _Algoritmo de Ordernação e Busca_
+- [ ] 4-4: _[Projeto - Algoritmos]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-
-##### Bloco 31: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 32: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
 
 ##### Bloco 33: Projeto
 
