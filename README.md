@@ -243,7 +243,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 4: Algoritmos
 
 - [x] 4-1: _Complexidade de Algoritmos_
-- [ ] 4-2: _Recursividade e Estratégia para Solução de Problemas_
+- [x] 4-2: _Recursividade e Estratégia para Solução de Problemas_
 - [ ] 4-3: _Algoritmo de Ordernação e Busca_
 - [ ] 4-4: _[Projeto - Algoritmos]()_
 
