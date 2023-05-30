@@ -244,15 +244,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 4-1: _Complexidade de Algoritmos_
 - [x] 4-2: _Recursividade e Estratégia para Solução de Problemas_
-- [ ] 4-3: _Algoritmo de Ordernação e Busca_
-- [ ] 4-4: _[Projeto - Algoritmos]()_
+- [x] 4-3: _Algoritmo de Ordernação e Busca_
+- [x] 4-4: _[Projeto - Algoritmos]()_
+
+
+##### Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [x] 5-1: _Arquitetura de Computadores_
+- [ ] 5-2: _Arquitetura de Rede_
+- [ ] 5-3: _Arrays_
+- [ ] 5-4: _Nó e Listas Encadeadas_
+- [ ] 5-5: _Pilha e Filas_
+- [ ] 5-6: _[Projeto - TING - Trybe is Not Google]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-
-##### Bloco 33: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
-
 
 ##### Bloco 34: Introdução - Ciência da Computação
 
