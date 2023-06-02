@@ -251,8 +251,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
 - [x] 5-1: _Arquitetura de Computadores_
-- [ ] 5-2: _Arquitetura de Rede_
-- [ ] 5-3: _Arrays_
+- [x] 5-2: _Arquitetura de Rede_
+- [x] 5-3: _Arrays_
 - [ ] 5-4: _Nó e Listas Encadeadas_
 - [ ] 5-5: _Pilha e Filas_
 - [ ] 5-6: _[Projeto - TING - Trybe is Not Google]()_
