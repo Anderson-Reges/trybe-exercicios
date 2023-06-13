@@ -253,18 +253,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-1: _Arquitetura de Computadores_
 - [x] 5-2: _Arquitetura de Rede_
 - [x] 5-3: _Arrays_
-- [ ] 5-4: _Nó e Listas Encadeadas_
-- [ ] 5-5: _Pilha e Filas_
-- [ ] 5-6: _[Projeto - TING - Trybe is Not Google]()_
+- [x] 5-4: _Nó e Listas Encadeadas_
+- [x] 5-5: _Pilha e Filas_
+- [x] 5-6: _[Projeto - TING - Trybe is Not Google]()_
+
+
+##### Bloco 6: Estrutura de Dados II: Hashmaps e Sets
+
+- [x] 6-1: _Hashmaps e Dicts_
+- [ ] 6-2: _Set_
+- [ ] 6-3: _Pandas_
+- [ ] 6-4: _[Projeto - Restaurant Orders]()_
 
 ### DAQUI PRA BAIXO ESTA DESATUALIZADO
-
-##### Bloco 34: Introdução - Ciência da Computação
-
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
 
 ##### Bloco 35: Python
 
